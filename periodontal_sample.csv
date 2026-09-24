@@ -1,0 +1,31 @@
+patient_id,age,sex,smoker,diabetes,bleeding_on_probing_pct,probing_depth_mm_mean,clinical_attachment_loss_mm_mean,periodontal_status
+P001,24,F,0,0,12,2.2,0.4,Healthy/Low risk
+P002,31,M,1,0,28,3.1,1.1,Mild
+P003,45,F,0,1,46,4.0,2.3,Moderate
+P004,52,M,1,0,55,4.8,3.2,Moderate
+P005,37,F,0,0,22,2.9,0.9,Healthy/Low risk
+P006,29,M,0,0,18,2.5,0.6,Healthy/Low risk
+P007,61,F,1,1,68,5.4,4.0,Severe
+P008,42,M,0,0,31,3.3,1.4,Mild
+P009,34,F,0,0,25,2.8,0.8,Healthy/Low risk
+P010,56,M,1,1,61,5.0,3.6,Severe
+P011,27,F,0,0,15,2.4,0.5,Healthy/Low risk
+P012,48,M,0,0,39,3.8,2.0,Moderate
+P013,39,F,1,0,36,3.5,1.7,Mild
+P014,63,M,1,1,72,5.7,4.4,Severe
+P015,33,F,0,0,20,2.7,0.7,Healthy/Low risk
+P016,50,M,0,1,48,4.3,2.8,Moderate
+P017,41,F,0,0,33,3.4,1.5,Mild
+P018,26,M,0,0,17,2.3,0.5,Healthy/Low risk
+P019,58,F,1,1,64,5.2,3.8,Severe
+P020,36,M,0,0,27,3.0,1.0,Mild
+P021,44,F,1,0,44,4.1,2.5,Moderate
+P022,30,M,0,0,19,2.6,0.7,Healthy/Low risk
+P023,55,F,1,1,59,4.9,3.4,Moderate
+P024,47,M,0,0,41,3.9,2.1,Moderate
+P025,32,F,0,0,23,2.8,0.8,Healthy/Low risk
+P026,60,M,1,1,70,5.5,4.2,Severe
+P027,38,F,0,0,29,3.2,1.3,Mild
+P028,49,M,0,0,37,3.7,1.9,Mild
+P029,28,F,0,0,16,2.4,0.6,Healthy/Low risk
+P030,53,M,1,1,57,4.7,3.1,Moderate
